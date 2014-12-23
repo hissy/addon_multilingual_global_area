@@ -9,7 +9,7 @@ use Punic\Data;
 
 class GlobalArea extends CoreGlobalArea
 {
-	public function __construct($arHandle)
+    public function __construct($arHandle)
     {
         $ms = MultilingualSection::getCurrentSection();
         if (is_object($ms)) {
