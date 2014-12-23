@@ -14,3 +14,8 @@ Generate Global Areas for each language section on a multilingual site.
 |------|---------|
 |en_US|Header Nav|
 |ja_JP|Header Nav Japanese (Japan)|
+|it_IT|Header Nav Italian (Italy)|
+
+# ToDo
+
+* Add ability to exclude specific areas
