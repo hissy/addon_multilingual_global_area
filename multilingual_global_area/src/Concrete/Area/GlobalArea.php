@@ -1,5 +1,5 @@
 <?php
-namespace Concrete\Package\MultilingualGlobalArea\Src\Area;
+namespace Concrete\Package\MultilingualGlobalArea\Area;
 
 use Concrete\Core\Area\GlobalArea as CoreGlobalArea;
 use Concrete\Core\Multilingual\Page\Section\Section as MultilingualSection;
